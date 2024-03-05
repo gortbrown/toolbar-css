@@ -1,0 +1,30 @@
+nav{align-content: space-around;  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+
+  padding: 0;
+}
+nav a{
+  
+  margin: 0 auto;
+  font-size: 20px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 5px;
+  padding: 10px;
+  color: black;
+}
+nav a:hover{
+  border-color: #7F54A3;
+  background-color: #7F54A3;
+  color: white;
+}
+#fh-head{
+margin: 0 auto;
+width: 125%;
+}
